@@ -1220,3 +1220,11 @@ section {
 #hero .cv-color:hover {
   color: #0563bb;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.line-spacing {
+  line-height: 2; /* Adjust the value as needed for desired spacing */
+}
